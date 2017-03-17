@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, NavLink, Switch, Link, Redirect, Prompt
 import './App.css';
 
 const contactStyle = {
-  border: '1px solid red',
+  border: '1px solid #ee1155',
   borderRadius: '3px'
 };
 
